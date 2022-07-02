@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### 🔭 I am a third year engineering student
-🌱 I’m currently learning web development
+#🌱 I’m currently learning web development
+
 😄 Pronouns: she/her
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MunazaArshad&theme=dark)](https://git.io/streak-stats)
